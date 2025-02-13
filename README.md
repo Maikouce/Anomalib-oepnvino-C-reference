@@ -13,4 +13,5 @@ Utilizes OpenVINO for efficient inference.
 Supports pixel-wise anomaly detection.
 
 Provides heatmap and segmentation overlay for enhanced analysis.
+
 Note: This is a demo, you will need to use your own model and thresholds
